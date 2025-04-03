@@ -1,0 +1,3 @@
+[submodule "s1"]
+	path = s1
+	url = https://github.com/swarupa94909/ss.git
